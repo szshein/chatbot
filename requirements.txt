@@ -1,2 +1,7 @@
 streamlit
 openai
+pandas
+jieba
+scikit-learn
+matplotlib
+wordcloud
